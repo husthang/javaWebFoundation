@@ -16,3 +16,6 @@ hs_err_pid*
 
 # target文件夹
 target/
+
+#out文件夹
+out/
