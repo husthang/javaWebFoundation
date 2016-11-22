@@ -21,4 +21,6 @@ target/
 out/
 
 #.idea文件夹
-.ideas/
+.idea/
+
+servlet_study.iml
